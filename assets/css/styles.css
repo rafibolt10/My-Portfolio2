@@ -294,10 +294,16 @@ img {
   width: 95%;
 }
 .skills__css {
-  width: 85%;
+  width: 90%;
+}
+.skills__b{
+  width: 80%;
 }
 .skills__js {
-  width: 65%;
+  width: 75%;
+}
+.skills__mern{
+   width: 80%;
 }
 .skills__ux {
   width: 85%;
